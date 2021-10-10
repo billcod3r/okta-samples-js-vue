@@ -17,7 +17,7 @@ npm install -g vue
 npm install -g @vue/cli
 
 # Add testenv file inside samples-js-vue-master folder with the following information:
-ISSUER=https://dev-30154607.okta.com/oauth2/default_
+ISSUER=https://dev-30154607.okta.com/oauth2/default \
 CLIENT_ID=0oa26859wubeiqcji5d7
 
 
