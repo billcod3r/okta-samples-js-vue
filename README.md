@@ -21,8 +21,8 @@ http://localhost:8080 in your browser
 # Click Login
 
 # Enter Username & Password as specified below:
-testusertylerexam@gmail.com
-P@ssw0rd123!
+Username/Email: testusertylerexam@gmail.com , 
+Password: P@ssw0rd123!
 
 # All Set!
 
