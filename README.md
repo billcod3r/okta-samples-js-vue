@@ -22,7 +22,7 @@ CLIENT_ID=0oa26859wubeiqcji5d7
 
 
 # Enter into okta-hosted-login directory using:
-cd okta-samples-js-vue\samples-js-vue-master
+cd okta-samples-js-vue\samples-js-vue-master\okta-hosted-login
 
 # In the terminal enter the following Command:
 npm start
