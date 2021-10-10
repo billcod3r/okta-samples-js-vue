@@ -8,10 +8,10 @@ Need to have installed: NodeJS
 # To run this application, you first need to clone this repo to your IDE:
 https://github.com/billcod3r/okta-samples-js-vue.git
 
-# Open the project
+# Open the project in your IDE
 
 
-# Then install dependencies by Opening your terminal and running the following command:
+# Then install dependencies by Opening your terminal and running the following commands:
 npm install \
 npm install -g vue \
 npm install -g @vue/cli
