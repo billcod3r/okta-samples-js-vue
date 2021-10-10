@@ -12,8 +12,8 @@ https://github.com/billcod3r/okta-samples-js-vue.git
 
 
 # Then install dependencies by Opening your terminal and running the following command:
-npm install
-npm install -g vue
+npm install \
+npm install -g vue \
 npm install -g @vue/cli
 
 # Add testenv file inside samples-js-vue-master folder with the following information:
