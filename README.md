@@ -2,7 +2,7 @@
 Interview Support Engineer Exam 
 
 # To run this application, you first need to clone this repo to your IDE:
-https://github.com/billcod3r/TylerTechnologyExam.git
+https://github.com/billcod3r/okta-samples-js-vue.git
 
 # Open the project
 
